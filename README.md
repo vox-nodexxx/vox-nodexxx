@@ -73,11 +73,11 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
     <td align="center" valign="top">
       <h4>🤖 AI & Development Tools</h4>
       <p>
-        <a href="https://cursor.sh/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cursor.svg" alt="cursor" width="40" height="40"/></a>
+        <a href="https://cursor.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="cursor" width="40" height="40"/></a>
         <a href="https://github.com/features/copilot" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" alt="github copilot" width="40" height="40"/></a>
         <a href="https://lovable.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/120251120?s=200&v=4" alt="lovable" width="40" height="40"/></a>
         <a href="https://replit.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/replit.svg" alt="replit" width="40" height="40"/></a>
-        <a href="https://openai.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="openai" width="40" height="40"/></a>
+        <a href="https://openai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" width="40" height="40"/></a>
         <a href="https://chat.openai.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="chatgpt" width="40" height="40"/></a>
         <a href="https://claude.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="claude" width="40" height="40"/></a>
         <a href="https://weaviate.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="weaviate" width="40" height="40"/></a>
