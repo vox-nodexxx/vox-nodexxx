@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Volodymyr
+# 👋 Hi, I'm VoxNode
 
 ### Software Engineer | Full-Stack Expertise | AI Engineer
 
