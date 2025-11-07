@@ -12,7 +12,7 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
 
 ### 🚀 Specializations
 
-**Lovable.dev Specialist** | **Replit** | **Cursor** | **AI Automations**
+**No Code Expert** | **Lovable.dev Specialist** | **Replit & Softr ** | | **N8N & Make**| **Cursor** | **AI Automations**
 
 ---
 
@@ -25,16 +25,6 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
 <div align="center">
 
 ### Languages & Tools 🛠
-
-#### Programming Languages
-
-<p>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-</p>
 
 <table>
   <tr>
@@ -60,7 +50,7 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
       <p>
         <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
         <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-        <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
+        <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/nestjs.svg" alt="nestjs" width="40" height="40"/></a>
         <a href="https://supabase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
         <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
@@ -83,12 +73,12 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
     <td align="center" valign="top">
       <h4>🤖 AI & Development Tools</h4>
       <p>
-        <a href="https://cursor.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" alt="cursor" width="40" height="40"/></a>
-        <a href="https://github.com/features/copilot" target="_blank"><img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="github copilot" width="40" height="40"/></a>
+        <a href="https://cursor.sh/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cursor.svg" alt="cursor" width="40" height="40"/></a>
+        <a href="https://github.com/features/copilot" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" alt="github copilot" width="40" height="40"/></a>
         <a href="https://lovable.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/120251120?s=200&v=4" alt="lovable" width="40" height="40"/></a>
-        <a href="https://replit.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/983194?s=200&v=4" alt="replit" width="40" height="40"/></a>
-        <a href="https://openai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="openai" width="40" height="40"/></a>
-        <a href="https://chat.openai.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="chatgpt" width="40" height="40"/></a>
+        <a href="https://replit.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/replit.svg" alt="replit" width="40" height="40"/></a>
+        <a href="https://openai.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="openai" width="40" height="40"/></a>
+        <a href="https://chat.openai.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openai.svg" alt="chatgpt" width="40" height="40"/></a>
         <a href="https://claude.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/76263028?s=200&v=4" alt="claude" width="40" height="40"/></a>
         <a href="https://weaviate.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="weaviate" width="40" height="40"/></a>
       </p>
@@ -96,19 +86,20 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
     <td align="center" valign="top">
       <h4>🔄 Automation & Integration</h4>
       <p>
-        <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487790?s=200&v=4" alt="n8n" width="40" height="40"/></a>
+        <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/n8n.svg" alt="n8n" width="40" height="40"/></a>
         <a href="https://www.make.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/17637681?s=200&v=4" alt="make" width="40" height="40"/></a>
-        <a href="https://zapier.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/1545996?s=200&v=4" alt="zapier" width="40" height="40"/></a>
-        <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+        <a href="https://zapier.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/zapier.svg" alt="zapier" width="40" height="40"/></a>
+        <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/postman.svg" alt="postman" width="40" height="40"/></a>
+        <a href="https://www.softr.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45687452?s=200&v=4" alt="softr" width="40" height="40"/></a>
       </p>
     </td>
     <td align="center" valign="top">
       <h4>🎯 No-Code Platforms</h4>
       <p>
-        <a href="https://www.softr.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45687452?s=200&v=4" alt="softr" width="40" height="40"/></a>
-        <a href="https://www.airtable.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/12797890?s=200&v=4" alt="airtable" width="40" height="40"/></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
+        <a href="https://www.airtable.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/airtable.svg" alt="airtable" width="40" height="40"/></a>
+        <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/figma.svg" alt="figma" width="40" height="40"/></a>
+        <a href="https://bubble.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/29818902?s=200&v=4" alt="bubble" width="40" height="40"/></a>
+        <a href="https://www.webflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/webflow.svg" alt="webflow" width="40" height="40"/></a>
       </p>
     </td>
   </tr>
