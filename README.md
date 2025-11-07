@@ -12,7 +12,7 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
 
 ### 🚀 Specializations
 
-**No Code Expert** | **Lovable.dev Specialist** | **Replit & Softr ** | | **N8N & Make**| **Cursor** | **AI Automations**
+**No Code Expert** | **Lovable.dev Specialist** | **Replit & Softr** | | **N8N & Make**| **Cursor** | **AI Automations**
 
 ---
 
@@ -97,7 +97,6 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
       <h4>🎯 No-Code Platforms</h4>
       <p>
         <a href="https://www.airtable.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/airtable.svg" alt="airtable" width="40" height="40"/></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/figma.svg" alt="figma" width="40" height="40"/></a>
         <a href="https://bubble.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/29818902?s=200&v=4" alt="bubble" width="40" height="40"/></a>
         <a href="https://www.webflow.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/webflow.svg" alt="webflow" width="40" height="40"/></a>
       </p>
@@ -106,12 +105,6 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
 </table>
 
 </div>
-
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,nestjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch,tailwind,redux,vercel,netlify,aws,kubernetes,nginx,jest,sass,webpack,gcp,azure,terraform&perline=10)](https://skillicons.dev)
-
----
 
 ## 💼 Core Expertise
 
