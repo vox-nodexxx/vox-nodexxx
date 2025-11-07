@@ -20,9 +20,7 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
 
 
 
-## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,nestjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch,tailwind,redux,vercel,netlify,aws&perline=10)](https://skillicons.dev)
 
 <div align="center">
 
@@ -117,6 +115,10 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
 </table>
 
 </div>
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,nestjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch,tailwind,redux,vercel,netlify,aws,kubernetes,nginx,jest,sass,webpack,gcp,azure,terraform&perline=10)](https://skillicons.dev)
 
 ---
 
