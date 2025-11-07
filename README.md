@@ -3,39 +3,13 @@
   </a>
   <br
 
-### I have experience developing in 🔭
+### I 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch&perline=10)](https://skillicons.dev)
 
 ---
 
-| ![](https://github-stats-alpha.vercel.app/api?username=mmvergara&cc=0d1117&tc=7d8590&ic=2f81f7&bc=30363d) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmvergara&theme=github_dark) |
-| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-
-
-
-![Hi there! I'm Estee Tey, a Software Developer & Technical Blogger!](cover.png)
-
-### Hello there 👋
-
-- 💻 I'm Estee, a Software Developer from Singapore (UTC+8).
-- 🦚 Currently building accessible and beautiful UI at [Padlet](https://padlet.com/).
-- ✍ I write articles about UI, UX, Open Source and App Development (Web/Mobile).
-- 🧡 I am open to opportunities to [learn, write and speak in public about anything technical](https://polywork.esteetey.dev/).
-- ✨ I can be [sponsored](https://github.com/sponsors/lyqht) to work on feature requests on web apps / articles - please reach out to me via LinkedIn.
-
-### Latest Articles
-
-<!-- ARTICLE_BADGE:START --><a href="https://blog.esteetey.dev/" target="_blank" rel="noopener noreferrer"><img alt="Technical Blog" src="https://img.shields.io/badge/technical%20blog%20📝-20%20articles-abcbca?style=flat"></a><!-- ARTICLE_BADGE:END -->
-
-<!-- BLOGPOST:START -->
-
-- [What it takes to scroll well](https://blog.esteetey.dev/what-it-takes-to-scroll-well)
-- [My Hacktoberfest Experience For The Third Time: 2022 Edition](https://blog.esteetey.dev/hacktoberfest-2022-edition)
-- [Swept along by life to be a software developer](https://blog.esteetey.dev/swept-along-by-life-to-be-a-software-developer)
-- [A Quick Guide To Building Good React Native Mobile Apps](https://blog.esteetey.dev/a-quick-guide-to-building-good-react-native-mobile-apps)
-- [Adding Custom Assets In React Native — made easy!](https://blog.esteetey.dev/adding-custom-assets-in-react-native-made-easy)
-<!-- BLOGPOST:END -->
+--------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
 ### Languages & Tools 🛠
 
