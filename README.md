@@ -96,7 +96,7 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
     <td align="center" valign="top">
       <h4>🎯 No-Code Platforms</h4>
       <p>
-        <a href="https://lovable.dev/" target="_blank"><img src="https://lovable.dev/favicon.svg" alt="lovable" width="40" height="40"/></a>
+        <a href="https://lovable.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/120251120?s=200&v=4" alt="lovable" width="40" height="40"/></a>
         <a href="https://replit.com/" target="_blank"><img src="https://replit.com/public/images/logo.svg" alt="replit" width="40" height="40"/></a>
         <a href="https://www.softr.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45687452?s=200&v=4" alt="softr" width="40" height="40"/></a>
         <a href="https://www.airtable.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/airtable.svg" alt="airtable" width="40" height="40"/></a>
