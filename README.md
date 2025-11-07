@@ -1,16 +1,7 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+**Code**&pause=1000&width=435&lines=Mark+Matthew+Vergara+;Web+%26+Mobile+Development;Currently+a+4th+Year+Student" alt="Typing SVG" />
-  </a>
-  <br
-
-### I 
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,solidjs,astro,remix,tauri,typescript,nodejs,bun,expressjs,java,spring,python,golang,prisma,mysql,postgresql,mongodb,redis,supabase,firebase,graphql,flutter,dart,electron,discordjs,discordbots,git,github,linux,docker,bash,postman,figma,cypress,vim,raspberrypi,pytorch&perline=10)](https://skillicons.dev)
 
----
-
---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-
+<br>
 ### Languages & Tools 🛠
 
 <div align="center">
