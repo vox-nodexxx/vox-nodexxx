@@ -12,7 +12,7 @@ Looking to launch your MVP or production-ready app quickly? I help startups and 
 
 ### 🚀 Specializations
 
-**No Code Expert** | **Lovable.dev Specialist** | **Replit & Softr** | **N8N & Make** | **Cursor** | **AI Automations**
+**AI Expert** | **Lovable.dev Specialist** | **Replit & Softr** | **N8N & Make** | **Cursor** | **AI Automations**
 
 ---
 
